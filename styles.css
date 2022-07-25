@@ -1,0 +1,156 @@
+.background{
+    background-color:gray
+}
+
+.nav{
+    color:white
+}
+
+.navposition{
+    position: relative;
+    left: 855px;
+    top: 2px;
+    color:white;
+}
+
+.questionsheader{
+    position: relative;
+    left: 780px;
+    top: 2px;
+    color:white;
+    font-size:24px;
+}
+
+.campaignsheader{
+    position: relative;
+    left: 625px;
+    top: 2px;
+    color:white;
+    font-size:24px;
+}
+
+.homeheader{
+    position: relative;
+    left: -45px;
+    top: 2px;
+    color:white;
+    font-size:24px;
+}
+
+.endheader{
+    position: relative;
+    left: 530px;
+    top: 2px;
+    color:white;
+    font-size:48px;
+}
+
+.questionsimg{
+    position: relative;
+    left: 800px;
+    top: 2px;
+    width: 300px;
+}
+
+.campaignsimg{
+    position: relative;
+    left: 750px;
+    top: 2px;
+    width: 400px;
+}
+
+.homeimg{
+    position: relative;
+    left: 800px;
+    top: 2px;
+}
+
+.formposition{
+    position: relative;
+    left: 920px;
+    top: 2px;
+    color: white;
+}
+
+.campaignlist1{
+    position: absolute;
+    left: 350px;
+    top: 90px;
+    color: white;
+    list-style-type: square;
+}
+
+.campaignlist2{
+    position: absolute;
+    right: 350px;
+    top: 90px;
+    color: white;
+    list-style-type: square;
+}
+
+.campaignlist3{
+    position: absolute;
+    left: 350px;
+    top: 500px;
+    color: white;
+    list-style-type: square;
+}
+
+.campaignlist4{
+    position: absolute;
+    right: 350px;
+    top: 500px;
+    color: white;
+    list-style-type: square;
+}
+
+.campaignlist5{
+    position: absolute;
+    left: 350px;
+    top: 900px;
+    color: white;
+    list-style-type: square;
+}
+
+.campaignlist6{
+    position: absolute;
+    right: 310px;
+    top: 900px;
+    color: white;
+    list-style-type: square;
+}
+
+.articleposition{
+    position: relative;
+    left: 740px;
+    top: 2px;
+}
+
+.table1{
+    position: relative;
+    left: 880px;
+    top: 2px;
+    color: white;
+}
+
+.table2{
+    position: relative;
+    left: 30px;
+    top: 2px;
+    color: white;
+}
+
+.table3{
+    position: relative;
+    left: 10px;
+    top: 2px;
+    color: white;
+}
+
+.table4{
+    position: relative;
+    left: 450px;
+    top: 2px;
+    color: white;
+    font-size: 18px;
+}
